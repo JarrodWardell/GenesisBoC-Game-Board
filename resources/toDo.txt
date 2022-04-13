@@ -1,0 +1,12 @@
+Primary to do:
+  - Seperate candidate squares
+  - Check candidate squares for marker
+  - Orient or eliminate candidate squares
+  - Check for match of elements in candidate squares
+  - Mark successful squares on original image
+  - Transform the board to take the entire image using ArUco(?)
+  - Divide board into known groups
+  - Mark square positions & orientations on image
+  - Introduce buffer to square detection to allow for some failed checks
+  - Output board state
+  - Link Health & Aura box to RPi for output
